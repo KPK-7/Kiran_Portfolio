@@ -42,7 +42,7 @@ export default function Home() {
                 meaningful digital experiences. Let&apos;s create something amazing together!
               </p>
               <a
-                href="/resume.pdf"
+                href="resume.pdf"
                 className="inline-block bg-[#fe5479] text-white px-8 py-3 rounded-full hover:bg-opacity-90 transition-colors"
               >
                 Resume
